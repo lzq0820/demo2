@@ -3,4 +3,4 @@ hello git one
 第 2 行
 第 3 行分支
 第 4 行分支 feature1
-第 5 行 master 分支
+第 5 行 master 分支：修复bug中
